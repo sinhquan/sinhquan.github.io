@@ -333,7 +333,8 @@ h6 {
     height: 90vh;
   }
   #hero:before {
-    bottom: 10vh;
+    bottom: auto;
+    height: 90vh;
   }
 }
 @media (max-width: 1024px) {
@@ -341,7 +342,8 @@ h6 {
     height: 70vh;
   }
   #hero:before {
-    bottom: 30vh;
+    bottom: auto;
+    height: 70vh;
   }
 }
 @media (max-width: 868px) {
@@ -349,7 +351,8 @@ h6 {
     height: 60vh;
   }
   #hero:before {
-    bottom: 40vh;
+    bottom: auto;
+    height: 60vh;
   }
 }
 @media (max-width: 768px) {
@@ -357,7 +360,8 @@ h6 {
     height: 50vh;
   }
   #hero:before {
-    bottom: 50vh;
+    bottom: auto;
+    height: 50vh;
   }
   #hero h1 {
     font-size: 28px;
@@ -375,7 +379,8 @@ h6 {
     height: 40vh;
   }
   #hero:before {
-    bottom: 60vh;
+    bottom: auto;
+    height: 40vh;
   }
 }
 @media (max-width: 520px) {
@@ -383,7 +388,8 @@ h6 {
     height: 30vh;
   }
   #hero:before {
-    bottom: 70vh;
+    bottom: auto;
+    height: 30vh;
   }
 }
 @media (max-width: 400px) {
@@ -391,7 +397,8 @@ h6 {
     height: 27vh;
   }
   #hero:before {
-    bottom: 73vh;
+    bottom: auto;
+    height: 27vh;
   }
 }
 
