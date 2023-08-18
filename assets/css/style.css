@@ -96,13 +96,13 @@ h6 {
   right: 15px;
   z-index: 10000;
   display: block;
-  width: 64px;
-  height: 64px;
+  width: 48px;
+  height: 48px;
   border-radius: 50%;
   background: url(../img/icon-zalo.png) center no-repeat;
   background-size: auto;
   background-size: auto;
-  background-size: 64px;
+  background-size: 48px;
 }
 
 /*--------------------------------------------------------------
